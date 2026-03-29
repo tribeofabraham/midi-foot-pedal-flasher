@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:tribeofabraham.com)"
+      "WebFetch(domain:tribeofabraham.com)",
+      "Bash(du -sh /d/TribeOfAbrahamGit/toa-site/sequencer/*)",
+      "Bash(du -sh /d/TribeOfAbrahamGit/toa-site/music/*)",
+      "Bash(du -sh /d/TribeOfAbrahamGit/nashville-notation/js/*)"
     ]
   }
 }
